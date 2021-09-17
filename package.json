@@ -1,9 +1,9 @@
 {
   "name": "vconsole-sender-plugin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "",
   "description": "sender for vconsole",
-  "main": "webpack.config.js",
+  "main": "dist/vconsole-sender-plugin.js",
   "scripts": {
     "build": "export NODE_ENV=production && ./node_modules/.bin/webpack --mode production --progress"
   },
